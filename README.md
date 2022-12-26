@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rishabhk0207
-- 👀 I’m interested in CP
-- 🌱 I’m currently learning DSA AND CP
+
 - 📫 How to reach me \ rishabhk0207@gmail.com
 
 <!---
